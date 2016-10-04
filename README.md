@@ -23,7 +23,7 @@ Repositori ini aku buat dengan tujuan untuk memudahkan aja bagi para netizen yan
 	
 Ada pertanyaan? Hubungi aku melalui kontak di bawah ini:
 
-* [LINE](http://line.me/ti/p/~mzaini30)
-* [Telegram](http://telegram.me/mzaini30)
-* [Facebook](http://facebook.com/mzaini30)
-* [Twitter](http://twitter.com/mzaini30)
+* LINE: [mzaini30](http://line.me/ti/p/~mzaini30)
+* Telegram: [@mzaini30](http://telegram.me/mzaini30)
+* Facebook [facebook.com/mzaini30](http://facebook.com/mzaini30)
+* Twitter: [@mzaini30](http://twitter.com/mzaini30)
