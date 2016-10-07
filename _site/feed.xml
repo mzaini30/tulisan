@@ -5,9 +5,74 @@
     <description>Sekedar catatan</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2016 16:11:29 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2016 16:11:29 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 12:37:24 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 12:37:24 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Tugas... I Love You. Muach... Muach...</title>
+        <description>&lt;p&gt;Kau tau kah tantangannya kalau di kuliahan itu?&lt;/p&gt;
+
+&lt;p&gt;Yap&lt;/p&gt;
+
+&lt;p&gt;TUGAS!!!&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Sebenarnya sih enjoy aja&lt;/p&gt;
+
+&lt;p&gt;Yang namanya tugas itu harus diselesaikan kan? Harus dikerjakan kan?&lt;/p&gt;
+
+&lt;p&gt;Sama kayak setiap hari harus rajin membuka toko pada jam 7 dan tutup pada jam setengah 10&lt;/p&gt;
+
+&lt;p&gt;Biasa aja kan?&lt;/p&gt;
+
+&lt;p&gt;Terus&lt;/p&gt;
+
+&lt;p&gt;Napa kita ngeluh?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 12:35:05 +0000</pubDate>
+        <link>/nulis%20aja/2016/10/07/tugas-i-love-you-muach-muach.html</link>
+        <guid isPermaLink="true">/nulis%20aja/2016/10/07/tugas-i-love-you-muach-muach.html</guid>
+        
+        
+        <category>nulis aja</category>
+        
+      </item>
+    
+      <item>
+        <title>Membuat Postingan Baru di Jekyll</title>
+        <description>
+</description>
+        <pubDate>Fri, 07 Oct 2016 10:54:38 +0000</pubDate>
+        <link>/koding/2016/10/07/membuat-postingan-baru-di-jekyll.html</link>
+        <guid isPermaLink="true">/koding/2016/10/07/membuat-postingan-baru-di-jekyll.html</guid>
+        
+        
+        <category>koding</category>
+        
+      </item>
+    
+      <item>
+        <title>Ini Caraku Menyelesaikan Masalah</title>
+        <description>&lt;p&gt;Hei hei… ketemu lagi nih di blog offline ini. Aku yang buat, aku juga yang baca. Hahahaha… Sekarang mau ceritain lah gimana caraku menyelesaikan masalah. Gampang aja sih. Lupakan aja dulu itu masalah, lakukan hal yang menyenangkan, ntar pasti dah masalah itu tuntas sendiri. Kok bisa gitu lah? Nggak tau juga ni kenapa. Misalnya aja lah, aku ada masalah nih sama kode yang nggak ketemu-ketemu jawabannya, aku lupakan aja tu masalah sambil ngerjain yang aku suka (misalnya aja nonton anime ni), pasti dah nanti tiba-tiba masalah itu sudah ada aja jawabannya.&lt;/p&gt;
+
+&lt;p&gt;Kok bisa gitu lah?&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Nggak tau juga ya&lt;/p&gt;
+
+&lt;p&gt;Apa mungkin ini namanya &lt;em&gt;psikologi proyektif&lt;/em&gt; ya? Mungkin aja sih&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 02:37:30 +0000</pubDate>
+        <link>/nulis%20aja/2016/10/07/ini-caraku-menyelesaikan-masalah.html</link>
+        <guid isPermaLink="true">/nulis%20aja/2016/10/07/ini-caraku-menyelesaikan-masalah.html</guid>
+        
+        
+        <category>nulis aja</category>
+        
+      </item>
     
       <item>
         <title>Nulis Lagi Ah...</title>
@@ -39,7 +104,7 @@
         <title>Belajar Pemrograman</title>
         <description>&lt;p&gt;Disini saya akan menjelaskan apakah pemrograman itu terlebih dahulu sebelum kita menginjak ke praktik yang lebih mendalam.&lt;/p&gt;
 
-&lt;!--more--&gt;
+&lt;!-- more --&gt;
 
 &lt;p&gt;Sebelumnya, saya akan menjelaskan alasan kami membangun website ini. Website ini dibangun dengan &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt; dan hosting oleh &lt;code class=&quot;highlighter-rouge&quot;&gt;github&lt;/code&gt;.
 Dengan konsep open-source kami berkeinginan membuat website ini terbuka bagi siapa saja, termasuk terbuka bagi anda yang ingin membuat artikel baru.&lt;/p&gt;
@@ -117,7 +182,7 @@ kenapa &lt;code class=&quot;highlighter-rouge&quot;&gt;python&lt;/code&gt; ? kar
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;!--more--&gt;
+&lt;!-- more --&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 

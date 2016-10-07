@@ -8,7 +8,7 @@ categories: tutorial
 
 Disini saya akan menjelaskan apakah pemrograman itu terlebih dahulu sebelum kita menginjak ke praktik yang lebih mendalam.
 
-<!--more-->
+<!-- more -->
 
 Sebelumnya, saya akan menjelaskan alasan kami membangun website ini. Website ini dibangun dengan `jekyll` dan hosting oleh `github`.
 Dengan konsep open-source kami berkeinginan membuat website ini terbuka bagi siapa saja, termasuk terbuka bagi anda yang ingin membuat artikel baru.
