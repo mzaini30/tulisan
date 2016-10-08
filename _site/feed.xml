@@ -5,9 +5,67 @@
     <description>Sekedar catatan</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Oct 2016 12:37:24 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2016 12:37:24 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 16:14:45 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 16:14:45 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Ketika Mereka Tasmian</title>
+        <description>&lt;p&gt;Malam ini aku membuka WhatsApp.&lt;/p&gt;
+
+&lt;p&gt;Oke, bukan untuk apa-apa, hanya ingin tau aja apa yang sedang terjadi hari ini di berbagai grup yang aku ikutin.&lt;/p&gt;
+
+&lt;p&gt;Dan ternyata, dari grup angkatanku sendiri, aku terkejut…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gambar/tasmian/ss.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Itu acara tasmian bro! Akupun lalu berpikir, “Ah, kalau aku kapan tasmian ya? Harus cepet-cepet nyusul nih”&lt;/p&gt;
+
+&lt;p&gt;Berikut ini adalah foto-foto acara tasmian mereka yang membuatku jadi semangat:&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gambar/tasmian/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Itu Bahri Rosyidi sama Farhan ya? Wow…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gambar/tasmian/2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Robin sama siapa itu…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gambar/tasmian/3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beh, ada Hani, Masykur, sama Manan juga.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/gambar/tasmian/4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ini yang paling kusenengin, wejangan dari Mbah Zein. Mantap, Wal!&lt;/p&gt;
+
+&lt;p&gt;Oke, kawan, biarpun aku nggak ada di sana pas kalian tasmian, aku akan buktikan deh kalau aku nggak kalah. Berarti, aku harus bisa benar-benar &lt;strong&gt;memanfaatkan&lt;/strong&gt; waktu yang ada, nggak menyia-nyiakan setiap waktu yang ada. Oke? Semangat!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 15:44:25 +0000</pubDate>
+        <link>/semangat/2016/10/07/ketika-mereka-tasmian.html</link>
+        <guid isPermaLink="true">/semangat/2016/10/07/ketika-mereka-tasmian.html</guid>
+        
+        
+        <category>semangat</category>
+        
+      </item>
+    
+      <item>
+        <title>Blogging, Antara Eksistensi dan Privasi</title>
+        <description>&lt;p&gt;Zaman sekarang kayaknya semua orang jadi pengen dipandang ya. Pengen dilihat. Pengen dipuji. Pengen diperhatikan. Sebenarnya sih dari zaman dahulu kala, sejak manusia pertama ada, karena itu memang sifat manusia. Tapi, perkembangan teknologi internet inilah yang membuat semuanya jadi lebih cepat.&lt;/p&gt;
+
+&lt;p&gt;Salah satunya blogging.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 13:23:34 +0000</pubDate>
+        <link>/nulis%20aja/2016/10/07/blogging-antara-eksistensi-dan-privasi.html</link>
+        <guid isPermaLink="true">/nulis%20aja/2016/10/07/blogging-antara-eksistensi-dan-privasi.html</guid>
+        
+        
+        <category>nulis aja</category>
+        
+      </item>
     
       <item>
         <title>Tugas... I Love You. Muach... Muach...</title>
@@ -45,11 +103,11 @@
         <description>
 </description>
         <pubDate>Fri, 07 Oct 2016 10:54:38 +0000</pubDate>
-        <link>/koding/2016/10/07/membuat-postingan-baru-di-jekyll.html</link>
-        <guid isPermaLink="true">/koding/2016/10/07/membuat-postingan-baru-di-jekyll.html</guid>
+        <link>/tutorial/2016/10/07/membuat-postingan-baru-di-jekyll.html</link>
+        <guid isPermaLink="true">/tutorial/2016/10/07/membuat-postingan-baru-di-jekyll.html</guid>
         
         
-        <category>koding</category>
+        <category>tutorial</category>
         
       </item>
     
