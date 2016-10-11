@@ -6,7 +6,7 @@
 title: Muhammad Zaini
 email: muhzaini30@gmail.com
 description: Sekedar catatan
-url:  # the base hostname & protocol for your site
+# url:  # the base hostname & protocol for your site
 
 
 #
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Muhammad Zaini
-  avatar: logo.png
+  avatar: psi.jpg
   job: "People"
   bio: "Rajin pangkal pandai"
   email:

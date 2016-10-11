@@ -2,7 +2,7 @@
 layout: post
 title: Tugas... I Love You. Muach... Muach...
 date: 2016-10-07 20:35:05 +0800
-categories: [nulis aja]
+category: nulis aja
 ---
 
 Kau tau kah tantangannya kalau di kuliahan itu?
